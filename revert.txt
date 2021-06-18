@@ -1,1 +1,1 @@
-sample revert changing
+sample revert
